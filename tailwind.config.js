@@ -4,9 +4,10 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  theme: {
+theme: {
     extend: {
       colors: {
+        border: '#e2e8f0',
         primary: {
           DEFAULT: '#2563EB',
           light: '#60A5FA',
