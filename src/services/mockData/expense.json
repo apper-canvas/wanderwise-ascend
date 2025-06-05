@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "tripId": "1",
+    "amount": 1250.00,
+    "category": "Flight",
+    "description": "Round trip tickets to Paris",
+    "date": "2024-01-15"
+  },
+  {
+    "id": "2",
+    "tripId": "1",
+    "amount": 150.00,
+    "category": "Accommodation",
+    "description": "Hotel Le Marais - Night 1",
+    "date": "2024-07-15"
+  },
+  {
+    "id": "3",
+    "tripId": "1",
+    "amount": 85.50,
+    "category": "Food",
+    "description": "Welcome dinner at Le Comptoir",
+    "date": "2024-07-15"
+  },
+  {
+    "id": "4",
+    "tripId": "1",
+    "amount": 25.00,
+    "category": "Activity",
+    "description": "Louvre Museum tickets",
+    "date": "2024-07-16"
+  },
+  {
+    "id": "5",
+    "tripId": "1",
+    "amount": 35.00,
+    "category": "Transport",
+    "description": "Seine River cruise",
+    "date": "2024-07-16"
+  },
+  {
+    "id": "6",
+    "tripId": "2",
+    "amount": 1800.00,
+    "category": "Flight",
+    "description": "Round trip to Tokyo",
+    "date": "2024-01-10"
+  },
+  {
+    "id": "7",
+    "tripId": "2",
+    "amount": 280.00,
+    "category": "Transport",
+    "description": "JR Pass - 7 days",
+    "date": "2024-04-01"
+  },
+  {
+    "id": "8",
+    "tripId": "2",
+    "amount": 120.00,
+    "category": "Accommodation",
+    "description": "Tokyo hotel - Night 1",
+    "date": "2024-04-01"
+  },
+  {
+    "id": "9",
+    "tripId": "2",
+    "amount": 45.00,
+    "category": "Food",
+    "description": "Sushi dinner in Shibuya",
+    "date": "2024-04-01"
+  },
+  {
+    "id": "10",
+    "tripId": "3",
+    "amount": 950.00,
+    "category": "Flight",
+    "description": "Flight to Bali",
+    "date": "2024-01-08"
+  },
+  {
+    "id": "11",
+    "tripId": "3",
+    "amount": 200.00,
+    "category": "Accommodation",
+    "description": "Ubud resort - Night 1",
+    "date": "2024-06-20"
+  },
+  {
+    "id": "12",
+    "tripId": "3",
+    "amount": 80.00,
+    "category": "Activity",
+    "description": "Spa treatment",
+    "date": "2024-06-20"
+  },
+  {
+    "id": "13",
+    "tripId": "3",
+    "amount": 65.00,
+    "category": "Activity",
+    "description": "Cooking class",
+    "date": "2024-06-21"
+  },
+  {
+    "id": "14",
+    "tripId": "4",
+    "amount": 750.00,
+    "category": "Flight",
+    "description": "Flight to New York",
+    "date": "2024-01-05"
+  },
+  {
+    "id": "15",
+    "tripId": "4",
+    "amount": 180.00,
+    "category": "Accommodation",
+    "description": "Manhattan hotel - Night 1",
+    "date": "2024-09-15"
+  },
+  {
+    "id": "16",
+    "tripId": "4",
+    "amount": 30.00,
+    "category": "Activity",
+    "description": "Met Museum admission",
+    "date": "2024-09-15"
+  },
+  {
+    "id": "17",
+    "tripId": "4",
+    "amount": 125.00,
+    "category": "Activity",
+    "description": "Broadway show tickets",
+    "date": "2024-09-16"
+  },
+  {
+    "id": "18",
+    "tripId": "5",
+    "amount": 600.00,
+    "category": "Flight",
+    "description": "Flight to Edinburgh",
+    "date": "2024-01-03"
+  },
+  {
+    "id": "19",
+    "tripId": "5",
+    "amount": 350.00,
+    "category": "Transport",
+    "description": "Car rental - 10 days",
+    "date": "2024-08-10"
+  },
+  {
+    "id": "20",
+    "tripId": "6",
+    "amount": 2200.00,
+    "category": "Accommodation",
+    "description": "Mediterranean cruise cabin",
+    "date": "2024-01-01"
+  }
+]

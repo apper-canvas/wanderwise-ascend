@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "European Summer Adventure",
+    "destination": "Paris, France",
+    "startDate": "2024-07-15",
+    "endDate": "2024-07-25",
+    "coverImage": "https://images.unsplash.com/photo-1502602898536-47ad22581b52?w=400&h=300&fit=crop",
+    "createdAt": "2024-01-15T10:00:00Z",
+    "updatedAt": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Tokyo Cherry Blossom",
+    "destination": "Tokyo, Japan",
+    "startDate": "2024-04-01",
+    "endDate": "2024-04-10",
+    "coverImage": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=400&h=300&fit=crop",
+    "createdAt": "2024-01-10T14:30:00Z",
+    "updatedAt": "2024-01-10T14:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Bali Tropical Escape",
+    "destination": "Bali, Indonesia",
+    "startDate": "2024-06-20",
+    "endDate": "2024-06-30",
+    "coverImage": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?w=400&h=300&fit=crop",
+    "createdAt": "2024-01-08T09:15:00Z",
+    "updatedAt": "2024-01-08T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "title": "New York City Explorer",
+    "destination": "New York, USA",
+    "startDate": "2024-09-15",
+    "endDate": "2024-09-22",
+    "coverImage": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=400&h=300&fit=crop",
+    "createdAt": "2024-01-05T16:45:00Z",
+    "updatedAt": "2024-01-05T16:45:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Scottish Highlands Road Trip",
+    "destination": "Edinburgh, Scotland",
+    "startDate": "2024-08-10",
+    "endDate": "2024-08-20",
+    "coverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "createdAt": "2024-01-03T11:20:00Z",
+    "updatedAt": "2024-01-03T11:20:00Z"
+  },
+  {
+    "id": "6",
+    "title": "Mediterranean Cruise",
+    "destination": "Barcelona, Spain",
+    "startDate": "2024-05-12",
+    "endDate": "2024-05-19",
+    "coverImage": "https://images.unsplash.com/photo-1523531294919-4bcd7c65e216?w=400&h=300&fit=crop",
+    "createdAt": "2024-01-01T08:00:00Z",
+    "updatedAt": "2024-01-01T08:00:00Z"
+  }
+]

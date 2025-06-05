@@ -1,0 +1,227 @@
+[
+  {
+    "id": "1",
+    "tripId": "1",
+    "day": 1,
+    "title": "Arrival & Eiffel Tower",
+    "startTime": "14:00",
+    "endTime": "18:00",
+    "location": {
+      "lat": 48.8584,
+      "lng": 2.2945,
+      "address": "Champ de Mars, 5 Avenue Anatole France, Paris"
+    },
+    "notes": "Take photos at sunset, book dinner nearby",
+    "category": "Sightseeing"
+  },
+  {
+    "id": "2",
+    "tripId": "1",
+    "day": 1,
+    "title": "Welcome Dinner",
+    "startTime": "19:30",
+    "endTime": "22:00",
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "address": "Le Comptoir du Relais, 9 Carrefour de l'Odéon, Paris"
+    },
+    "notes": "Traditional French cuisine, reservation confirmed",
+    "category": "Food"
+  },
+  {
+    "id": "3",
+    "tripId": "1",
+    "day": 2,
+    "title": "Louvre Museum Visit",
+    "startTime": "09:00",
+    "endTime": "13:00",
+    "location": {
+      "lat": 48.8606,
+      "lng": 2.3376,
+      "address": "Rue de Rivoli, 75001 Paris"
+    },
+    "notes": "Pre-booked tickets, focus on Mona Lisa and Venus de Milo",
+    "category": "Sightseeing"
+  },
+  {
+    "id": "4",
+    "tripId": "1",
+    "day": 2,
+    "title": "Seine River Cruise",
+    "startTime": "15:30",
+    "endTime": "17:00",
+    "location": {
+      "lat": 48.8606,
+      "lng": 2.3376,
+      "address": "Port de la Bourdonnais, Paris"
+    },
+    "notes": "Audio guide included, champagne option available",
+    "category": "Activity"
+  },
+  {
+    "id": "5",
+    "tripId": "1",
+    "day": 3,
+    "title": "Montmartre & Sacré-Cœur",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "location": {
+      "lat": 48.8867,
+      "lng": 2.3431,
+      "address": "35 Rue du Chevalier de la Barre, Paris"
+    },
+    "notes": "Walk through artist quarter, lunch at local bistro",
+    "category": "Sightseeing"
+  },
+  {
+    "id": "6",
+    "tripId": "2",
+    "day": 1,
+    "title": "Arrival at Haneda Airport",
+    "startTime": "16:30",
+    "endTime": "18:00",
+    "location": {
+      "lat": 35.5494,
+      "lng": 139.7798,
+      "address": "Haneda Airport, Tokyo"
+    },
+    "notes": "JR Pass pickup, train to Shibuya",
+    "category": "Transport"
+  },
+  {
+    "id": "7",
+    "tripId": "2",
+    "day": 1,
+    "title": "Shibuya Crossing Experience",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "location": {
+      "lat": 35.6598,
+      "lng": 139.7006,
+      "address": "Shibuya Crossing, Tokyo"
+    },
+    "notes": "Visit Sky observation deck, dinner in area",
+    "category": "Sightseeing"
+  },
+  {
+    "id": "8",
+    "tripId": "2",
+    "day": 2,
+    "title": "Cherry Blossom Viewing - Ueno Park",
+    "startTime": "08:00",
+    "endTime": "12:00",
+    "location": {
+      "lat": 35.7153,
+      "lng": 139.7742,
+      "address": "Ueno Park, Tokyo"
+    },
+    "notes": "Best spot for hanami, bring picnic blanket",
+    "category": "Sightseeing"
+  },
+  {
+    "id": "9",
+    "tripId": "2",
+    "day": 2,
+    "title": "Tokyo National Museum",
+    "startTime": "13:30",
+    "endTime": "16:30",
+    "location": {
+      "lat": 35.7188,
+      "lng": 139.7766,
+      "address": "13-9 Uenokoen, Taito City, Tokyo"
+    },
+    "notes": "Japanese art and artifacts, special sakura exhibition",
+    "category": "Sightseeing"
+  },
+  {
+    "id": "10",
+    "tripId": "3",
+    "day": 1,
+    "title": "Airport Transfer to Ubud",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "location": {
+      "lat": -8.5069,
+      "lng": 115.2625,
+      "address": "Ubud, Gianyar Regency, Bali"
+    },
+    "notes": "Private driver arranged, check into resort",
+    "category": "Transport"
+  },
+  {
+    "id": "11",
+    "tripId": "3",
+    "day": 1,
+    "title": "Welcome Spa Treatment",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "location": {
+      "lat": -8.5069,
+      "lng": 115.2625,
+      "address": "Spa at Maya Ubud Resort, Bali"
+    },
+    "notes": "Traditional Balinese massage, couple's treatment",
+    "category": "Activity"
+  },
+  {
+    "id": "12",
+    "tripId": "3",
+    "day": 2,
+    "title": "Tegallalang Rice Terraces",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "location": {
+      "lat": -8.4339,
+      "lng": 115.2772,
+      "address": "Tegallalang, Gianyar Regency, Bali"
+    },
+    "notes": "Sunrise photography, jungle swing experience",
+    "category": "Sightseeing"
+  },
+  {
+    "id": "13",
+    "tripId": "3",
+    "day": 2,
+    "title": "Balinese Cooking Class",
+    "startTime": "15:00",
+    "endTime": "18:00",
+    "location": {
+      "lat": -8.5167,
+      "lng": 115.2583,
+      "address": "Paon Bali Cooking Class, Ubud"
+    },
+    "notes": "Market tour included, vegetarian options available",
+    "category": "Activity"
+  },
+  {
+    "id": "14",
+    "tripId": "4",
+    "day": 1,
+    "title": "Central Park Stroll",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "location": {
+      "lat": 40.7829,
+      "lng": -73.9654,
+      "address": "Central Park, New York, NY"
+    },
+    "notes": "Bow Bridge, Bethesda Fountain, rent bikes",
+    "category": "Sightseeing"
+  },
+  {
+    "id": "15",
+    "tripId": "4",
+    "day": 1,
+    "title": "Metropolitan Museum of Art",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "location": {
+      "lat": 40.7794,
+      "lng": -73.9632,
+      "address": "1000 5th Ave, New York, NY 10028"
+    },
+    "notes": "Egyptian Art, Arms & Armor, rooftop garden",
+    "category": "Sightseeing"
+  }
+]

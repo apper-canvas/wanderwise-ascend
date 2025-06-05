@@ -1,0 +1,186 @@
+[
+  {
+    "id": "1",
+    "tripId": "1",
+    "category": "Clothing",
+    "item": "Summer dresses",
+    "quantity": 3,
+    "isPacked": true
+  },
+  {
+    "id": "2",
+    "tripId": "1",
+    "category": "Clothing",
+    "item": "Comfortable walking shoes",
+    "quantity": 1,
+    "isPacked": true
+  },
+  {
+    "id": "3",
+    "tripId": "1",
+    "category": "Clothing",
+    "item": "Light jacket",
+    "quantity": 1,
+    "isPacked": false
+  },
+  {
+    "id": "4",
+    "tripId": "1",
+    "category": "Electronics",
+    "item": "Phone charger",
+    "quantity": 1,
+    "isPacked": true
+  },
+  {
+    "id": "5",
+    "tripId": "1",
+    "category": "Electronics",
+    "item": "Camera",
+    "quantity": 1,
+    "isPacked": false
+  },
+  {
+    "id": "6",
+    "tripId": "1",
+    "category": "Electronics",
+    "item": "Power adapter (EU)",
+    "quantity": 1,
+    "isPacked": true
+  },
+  {
+    "id": "7",
+    "tripId": "1",
+    "category": "Documents",
+    "item": "Passport",
+    "quantity": 1,
+    "isPacked": true
+  },
+  {
+    "id": "8",
+    "tripId": "1",
+    "category": "Documents",
+    "item": "Travel insurance",
+    "quantity": 1,
+    "isPacked": true
+  },
+  {
+    "id": "9",
+    "tripId": "1",
+    "category": "Documents",
+    "item": "Hotel confirmations",
+    "quantity": 1,
+    "isPacked": false
+  },
+  {
+    "id": "10",
+    "tripId": "1",
+    "category": "Toiletries",
+    "item": "Toothbrush",
+    "quantity": 1,
+    "isPacked": true
+  },
+  {
+    "id": "11",
+    "tripId": "1",
+    "category": "Toiletries",
+    "item": "Sunscreen",
+    "quantity": 1,
+    "isPacked": false
+  },
+  {
+    "id": "12",
+    "tripId": "1",
+    "category": "Toiletries",
+    "item": "Shampoo (travel size)",
+    "quantity": 1,
+    "isPacked": true
+  },
+  {
+    "id": "13",
+    "tripId": "1",
+    "category": "Other",
+    "item": "Travel guidebook",
+    "quantity": 1,
+    "isPacked": false
+  },
+  {
+    "id": "14",
+    "tripId": "1",
+    "category": "Other",
+    "item": "Umbrella",
+    "quantity": 1,
+    "isPacked": false
+  },
+  {
+    "id": "15",
+    "tripId": "2",
+    "category": "Clothing",
+    "item": "Warm layers",
+    "quantity": 2,
+    "isPacked": true
+  },
+  {
+    "id": "16",
+    "tripId": "2",
+    "category": "Clothing",
+    "item": "Waterproof jacket",
+    "quantity": 1,
+    "isPacked": false
+  },
+  {
+    "id": "17",
+    "tripId": "2",
+    "category": "Electronics",
+    "item": "Portable battery pack",
+    "quantity": 1,
+    "isPacked": true
+  },
+  {
+    "id": "18",
+    "tripId": "2",
+    "category": "Documents",
+    "item": "JR Pass",
+    "quantity": 1,
+    "isPacked": true
+  },
+  {
+    "id": "19",
+    "tripId": "2",
+    "category": "Other",
+    "item": "Pocket WiFi device",
+    "quantity": 1,
+    "isPacked": false
+  },
+  {
+    "id": "20",
+    "tripId": "3",
+    "category": "Clothing",
+    "item": "Swimwear",
+    "quantity": 2,
+    "isPacked": true
+  },
+  {
+    "id": "21",
+    "tripId": "3",
+    "category": "Clothing",
+    "item": "Beach cover-up",
+    "quantity": 1,
+    "isPacked": false
+  },
+  {
+    "id": "22",
+    "tripId": "3",
+    "category": "Toiletries",
+    "item": "Mosquito repellent",
+    "quantity": 1,
+    "isPacked": true
+  },
+  {
+    "id": "23",
+    "tripId": "3",
+    "category": "Other",
+    "item": "Flip flops",
+    "quantity": 1,
+    "isPacked": true
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "tripId": "1",
+    "type": "passport",
+    "title": "Passport Copy",
+    "fileUrl": "/documents/passport-copy.pdf",
+    "uploadedAt": "2024-01-10T08:00:00Z"
+  },
+  {
+    "id": "2",
+    "tripId": "1",
+    "type": "ticket",
+    "title": "Flight Tickets - Paris",
+    "fileUrl": "/documents/flight-tickets-paris.pdf",
+    "uploadedAt": "2024-01-10T08:15:00Z"
+  },
+  {
+    "id": "3",
+    "tripId": "1",
+    "type": "accommodation",
+    "title": "Hotel Confirmation - Le Marais",
+    "fileUrl": "/documents/hotel-confirmation.pdf",
+    "uploadedAt": "2024-01-10T08:30:00Z"
+  },
+  {
+    "id": "4",
+    "tripId": "1",
+    "type": "insurance",
+    "title": "Travel Insurance Policy",
+    "fileUrl": "/documents/travel-insurance.pdf",
+    "uploadedAt": "2024-01-10T09:00:00Z"
+  },
+  {
+    "id": "5",
+    "tripId": "2",
+    "type": "visa",
+    "title": "Japan Tourist Visa",
+    "fileUrl": "/documents/japan-visa.pdf",
+    "uploadedAt": "2024-01-08T10:00:00Z"
+  },
+  {
+    "id": "6",
+    "tripId": "2",
+    "type": "ticket",
+    "title": "JR Pass Voucher",
+    "fileUrl": "/documents/jr-pass.pdf",
+    "uploadedAt": "2024-01-08T10:30:00Z"
+  },
+  {
+    "id": "7",
+    "tripId": "3",
+    "type": "vaccination",
+    "title": "Vaccination Certificate",
+    "fileUrl": "/documents/vaccination-cert.pdf",
+    "uploadedAt": "2024-01-05T14:00:00Z"
+  },
+  {
+    "id": "8",
+    "tripId": "3",
+    "type": "accommodation",
+    "title": "Resort Booking - Bali",
+    "fileUrl": "/documents/bali-resort.pdf",
+    "uploadedAt": "2024-01-05T14:15:00Z"
+  },
+  {
+    "id": "9",
+    "tripId": "4",
+    "type": "ticket",
+    "title": "Broadway Show Tickets",
+    "fileUrl": "/documents/broadway-tickets.pdf",
+    "uploadedAt": "2024-01-03T16:00:00Z"
+  },
+  {
+    "id": "10",
+    "tripId": "4",
+    "type": "other",
+    "title": "Museum Pass - NYC",
+    "fileUrl": "/documents/museum-pass.pdf",
+    "uploadedAt": "2024-01-03T16:30:00Z"
+  }
+]
